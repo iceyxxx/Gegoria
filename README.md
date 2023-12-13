@@ -5,4 +5,4 @@ Solo Game Project
 
 Please do not use the exe here directly.
 You can download the game by Google Drive:
-https://drive.google.com/file/d/1ONFk4lxjNsOyGt34t0lDNMCmZDWREQds/view?usp=sharing
+https://drive.google.com/file/d/1LDTeiqyU-7vx8-VDoweF4o76STG9VR3z/view?usp=sharing
